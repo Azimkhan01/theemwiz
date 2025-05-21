@@ -7,25 +7,25 @@ function HBox7() {
             h:"Design",
             h2:"SOFA",
             css:"",
-            img:"./public/hb7-bg/sofa.png"
+            img:"/hb7-bg/sofa.png"
         },
         {
             h:"Branding",
             h2:"KEYBOARD",
             css:"",
-            img:"./public/hb7-bg/keyboard.png"
+            img:"/hb7-bg/keyboard.png"
         },
         {
             h:"Illustation",
             h2:"WORK MEDIA",
             css:"",
-            img:"./public/hb7-bg/workmedia.png"
+            img:"/hb7-bg/workmedia.png"
         },
         {
             h:"Motion",
             h2:"DDDOne",
             css:"",
-            img:"./public/hb7-bg/DDDone.png"
+            img:"/hb7-bg/DDDone.png"
         },
     ]
 

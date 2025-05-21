@@ -7,7 +7,7 @@ function HBox2() {
       {/* company logo */}
 
       <div className="w-full flex justify-center items-center p-6">
-        <img src="./public/logo.png" />
+        <img src="/hb2-bg/logo.png" />
       </div>
 
       {/* hr */}
@@ -21,22 +21,22 @@ function HBox2() {
       <div className=" h-screen flex flex-col md:flex-row w-full">
         <div className=" h-1/2 md:h-auto relative w-full md:w-1/2">
           <div className="absolute w-4/6 top-25 right-0 md:top-50 md:right-0 z-[5]">
-            <img src="./public/hb2-bg/Bitmap.png" />
+            <img src="/hb2-bg/Bitmap.png" />
           </div>
           <div className="absolute w-4/6 top-0 right-0 md:top-15 md:right-0 z-[4]">
-            <img src="./public/hb2-bg/block.png" />
+            <img src="/hb2-bg/block.png" />
           </div>
           <div className="absolute -top-10  md:top-2.5 right-10 md:right-25">
-            <img src="./public/hb2-bg/combineShape.png" />
+            <img src="/hb2-bg/combineShape.png" />
           </div>
           <div className="absolute w-2/6 left-12 top-10 md:left-25 md:top-20 z-[3]">
-            <img src="./public/hb2-bg/Path.png" />
+            <img src="/hb2-bg/Path.png" />
           </div>
           <div className="absolute w-4/6 right-6 md:top-0 md:right-50 z-[1]">
-            <img src="./public/hb2-bg/Rectangle.png" />
+            <img src="/hb2-bg/Rectangle.png" />
           </div>
           <div className="absolute bottom-8 left-10 md:bottom-50 md:left-25 z-[6] p-2.5 rounded-full bg-orange-500 h-1/3 w-1/3 md:h-[30%] md:w-[30%] flex justify-center items-center  ">
-            <img src="./public/hb2-bg/Person.png" className="object-contain" />
+            <img src="/hb2-bg/Person.png" className="object-contain" />
           </div>
         </div>
 
