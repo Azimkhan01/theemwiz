@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "update": "git add . && git commit -m 'some update' && git push origin main"
   },
   "dependencies": {
     "@studio-freight/lenis": "^1.0.42",
