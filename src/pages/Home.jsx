@@ -4,7 +4,7 @@ import HBox2 from '../component/HBox2'
 import HBox3 from '../component/HBox3'
 import HBox4 from '../component/HBox4'
 import HBox5 from '../component/HBox5'
-import HBox6 from '../component/Hbox6'
+import HBox6 from '../component/HBox6'
 import HBox7 from '../component/HBox7'
 
 function Home() {
