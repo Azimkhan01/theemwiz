@@ -11,7 +11,7 @@ function HBox1() {
 
         <div className="relative w-full px-4">
           <div className="absolute m-auto -top-10 left-40 md:left-55 z-0 ">
-            <img src="/public/star.svg" className="z-0" />
+            <img src="./public/star.svg" className="z-0" />
           </div>
           <h1 className="md:w-4/6 text-white text-5xl md:text-6xl font-bold text-left z-10 relative">
             We’re Help <br /> To Build Your <br /> Dream Project
@@ -39,7 +39,7 @@ function HBox1() {
 
         <div className="flex gap-2 p-4" >
           <div className="flex justify-center items-center">
-            <img src="/public/bitmap.png" className="w-[80%]" alt="bitmap"  />
+            <img src="./public/bitmap.png" className="w-[80%]" alt="bitmap"  />
           </div>
           <div>
             <p className="text-white/70">"Put themselves in the merchant's shoes"</p>
@@ -49,7 +49,7 @@ function HBox1() {
       </div>
 
       <div className=" w-full md:w-1/2">
-        <img className="object-contain" src="/public/pic-.png" />
+        <img className="object-contain" src="./public/pic-.png" />
       </div>
     </div>
   );
