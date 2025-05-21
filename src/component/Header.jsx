@@ -19,9 +19,9 @@ function Header() {
         {/* Logo */}
         <div className="flex items-center gap-3">
           <div className="relative">
-            <img src="/Logo/polygon.svg" alt="polygon"  />
+            <img src="/header/polygon.svg" alt="polygon"  />
             <img
-              src="/Logo/polygon-1.svg"
+              src="/header/polygon-1.svg"
               alt="polygon 2"
               className="absolute inset-0 m-auto"
             />
