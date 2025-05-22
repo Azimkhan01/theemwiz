@@ -9,6 +9,9 @@ import HBox7 from '../component/HBox7'
 import HBox8 from '../component/HBox8'
 import HBox9 from '../component/HBox9'
 import Hbox10 from '../component/Hbox10'
+import HBox11 from '../component/HBox11'
+import HBox12 from '../component/HBox12'
+import HBox13 from '../component/HBox13'
 
 function Home() {
   return (
@@ -23,6 +26,9 @@ function Home() {
         <HBox8/>
         <HBox9/>
         <Hbox10/>
+        <HBox11/>
+        <HBox12/>
+        <HBox13/>
     </>
   )
 }

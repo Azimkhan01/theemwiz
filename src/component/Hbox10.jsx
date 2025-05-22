@@ -27,7 +27,7 @@ function Hbox10() {
   return (
     <div className="flex flex-col justify-center items-center bg-[#28293E] py-10">
       {/* Scrollable Card Container */}
-      <div className="w-full md:w-4/6 flex gap-4 overflow-auto md:overflow-hidden px-4 md:px-0">
+      <div className="w-full md:w-4/6 flex gap-4 overflow-auto md:overflow-visible px-4 md:px-0">
         {data.map((d, i) => (
           <Card key={i} img={d.img} name={d.name} skill={d.skill} />
         ))}
@@ -53,8 +53,8 @@ export default Hbox10;
 // Card Component
 const Card = ({ img, name, skill }) => {
   return (
-    <div className="min-w-[250px] md:w-1/4 flex-shrink-0 overflow-hidden bg-[#1E1F2E] rounded-lg">
-      <div className="h-48 md:h-75 w-full">
+    <div className="min-w-[250px] md:w-1/4 flex-shrink-0 overflow-visible bg-[#1E1F2E] rounded-lg">
+      <div className="h-48 md:h-75 w-full overflow-visible">
         <img
           src={img}
           alt={name}
