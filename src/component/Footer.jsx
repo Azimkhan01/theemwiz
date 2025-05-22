@@ -28,7 +28,7 @@ function Footer() {
         ))}
 
         {/* Social Icons */}
-        <div className="flex space-x-4 mt-4 lg:mt-0">
+        <div className="flex space-x-4 mt-4 lg:mt-0 self-center md:self-start ">
           <div className="bg-orange-400 text-white rounded-full flex items-center justify-center w-10 h-10 p-3">
             <FaFacebookF size={16} />
           </div>
