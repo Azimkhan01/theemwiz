@@ -6,7 +6,7 @@ function HBox5() {
       {/* left section */}
       <div className="flex justify-center items-center p-4 w-full md:w-1/2 bg-orange-50 relative" >
         <div>
-          <img src="/hb5-bg/bitmap.png" className="rounded-md" />
+          <img src="/hb5-bg/Bitmap.png" className="rounded-md" />
         </div>
         <div className="absolute" >
             <img src="/hb5-bg/play.svg" />

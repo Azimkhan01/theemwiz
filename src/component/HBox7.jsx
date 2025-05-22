@@ -25,7 +25,7 @@ function HBox7() {
       h: "Motion",
       h2: "DDDOne",
       css: "",
-      img: "/hb7-bg/dddone.png",
+      img: "/hb7-bg/DDDone.png",
     },
   ];
 
